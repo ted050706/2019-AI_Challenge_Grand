@@ -1,4 +1,4 @@
-# data
+# 2019 科技大擂台 資料處理相關程式
 
 ### date team
 FGC_to_SQuAD 分別讀入官方範例檔案題目與答案,並產出SQuAD的是否題
